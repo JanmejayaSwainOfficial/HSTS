@@ -4,7 +4,7 @@
 echo "###################################################"
 echo "#                                                 #"
 echo "#         This Tool is made for to check HSTS     #"
-echo "#            syntax:- https//exaple.com           #"
+echo "#            syntax:- https//:exaple.com          #"
 echo "#                                                 #"
 echo "###################################################"
 
